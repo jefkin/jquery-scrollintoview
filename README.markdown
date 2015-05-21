@@ -1,4 +1,4 @@
-Version v02.00.*
+Version v02.00.01
 ==
 jQuery .scrollintoview() plugin <sup>(with :scrollable selector filter)</sup>
 ==
